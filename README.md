@@ -7,7 +7,7 @@
 -  Ask me about **JavaScript**, **Typescript**, **CSS**, **HTML**, and **Microsoft SQL/Oracle**.
 -  Email me: [giorgi.mjavia17@gmail.com].
 -  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgimjavia&layout=compact)
+<img alt="top langs" src"https://github-readme-stats.vercel.app/api/top-langs/?username=giorgimjavia&layout=compact"
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=giorgimjavia" />
 
