@@ -7,5 +7,5 @@
 -  Ask me about **JavaScript**, **CSS**, **HTML**, and **Microsoft SQL/Oracle**.
 -  Email me: [giorgi.mjavia17@gmail.com].
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgimjavia)](https://github.com/giorgimjavia/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgimjavia&show_icons=true)](https://github.com/giorgimjavia/github-readme-stats)
 
