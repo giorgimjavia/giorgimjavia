@@ -6,8 +6,8 @@
 -  Working on building and designing databases with **SQL Queries** and **PL/SQL**.
 -  Ask me about **JavaScript**, **Typescript**, **CSS**, **HTML**, and **Microsoft SQL/Oracle**.
 -  Email me: [giorgi.mjavia17@gmail.com].
--  
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgimjavia&layout=compact" />
+  
+<img alt="top langs" align="left" width="31.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgimjavia&layout=compact" />
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=giorgimjavia" />
+<img alt="my stats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=giorgimjavia" />
 
