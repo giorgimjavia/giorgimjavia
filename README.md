@@ -9,3 +9,5 @@
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=giorgimjavia"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgimjavia)](https://github.com/giorgimjavia/github-readme-stats)
+
