@@ -2,6 +2,7 @@
 
 -  Working on building small web apps and improving my coding skills.
 -  Learning **Angular**, **Node.js**, **Express**.
+-  Learning the principles and fundamentals of **Java** and Object **Oriented Programming (OOP)**.
 -  Looking to collaborate on **Frontend** and **Backend** projects.
 -  Working on building and designing databases with **SQL Queries**,  **PL/SQL**,  **T-SQL**.
 -  Ask me about **JavaScript**, **Typescript**, **CSS**, **HTML**, and **Microsoft SQL/Oracle**.
